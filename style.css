@@ -1,0 +1,22 @@
+body {
+    background-image: url('images/phantom_troupe.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.div-class, .icon-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 50px;
+    margin-top: 50px;
+    padding: 50px;
+}
+.div-class {
+    color: rgb(105, 135, 180);
+}
+.icon-style {
+    color: rgb(105, 163, 202);
+}
